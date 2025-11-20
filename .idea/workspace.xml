@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54a2dfb2-ce5c-4bc9-8b3b-b2e6a0dc3393" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/onlinecourse/migrations/0002_question_choice_submission.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/templates/onlinecourse/course_detail_bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/templates/onlinecourse/course_detail_bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/templates/onlinecourse/exam_result_bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/templates/onlinecourse/exam_result_bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/onlinecourse/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/onlinecourse/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +52,8 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Github/tfjzl-final-cloud-app-with-database"
+    "last_opened_file_path": "D:/Github/tfjzl-final-cloud-app-with-database",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
